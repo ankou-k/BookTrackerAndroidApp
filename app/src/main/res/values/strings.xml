@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Book Tracker</string>
+    <string name="input_book_details">Enter Book Details</string>
+    <string name="input_title">Title: </string>
+    <string name="input_author">Author: </string>
+    <string name="input_year">Year: </string>
+    <string name="next">Next</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="done">Done</string>
+    <string name="book_details">Book Details</string>
+    <string name="return_btn">Return</string>
+    <string name="tkn_photo_description">Taken Photo</string>
+    <string name="books_img_description">Image of Books</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="set_alarm_description">Set an alarm to read your book!</string>
+    <string name="call">Call</string>
+    <string name="search">Search</string>
+    <string name="search_hint">What do you want to search for today?</string>
+    <string name="tools">Tools</string>
+    <string name="call_hint">Enter the number of your local bookstore</string>
+</resources>
